@@ -8,7 +8,7 @@ from PIL import ImageTk, Image
 import tkMessageBox
 
 WindowsSize = "780x1050"
-PLC_IP_Adress = '172.23.1.77'
+PLC_IP_Adress = '172.23.1.70'
 Update_Program_Every_ms = 50
 
 
